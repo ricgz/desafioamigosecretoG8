@@ -10,7 +10,7 @@ de forma acertiva realizar el sorteo del clasico juego **"amigo secreto"**.
 - Se requiere un minimo de 3 nombres para mantener el misterio.
 - Cero posibilidad de sortear a la misma persona (registro interno de sorteados).
 
-[Demo del juego](https://pages.github.com/).
+[Demo del juego](https://ricgz.github.io/desafioamigosecretoG8/).
 
 <img width="1676" alt="home" src="https://github.com/user-attachments/assets/d3f988fc-bb20-41be-8409-b1aa73990237" />
 
